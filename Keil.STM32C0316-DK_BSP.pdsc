@@ -77,7 +77,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1716-c031c6-a03_schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32C031C6Tx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32C031"/>
       <feature type="ODbg"      n="1"              name="On-board STLINK-V3MINIE"/>
       <feature type="PWR"       n="5"              name="USB Powered"/>
       <feature type="ConnOther" n="2"              name="Extension connector (CN6, CN7)"/>
